@@ -1,0 +1,1 @@
+<h1>Data Successfuly Stored in DataBase..</h1>
